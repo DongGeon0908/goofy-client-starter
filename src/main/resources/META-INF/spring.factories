@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.goofy.client.starter.autoconfigure.RestTemplateAutoConfigure,\
+com.goofy.client.starter.autoconfigure.WebClientAutoConfigure
